@@ -1,0 +1,41 @@
+<div class="row">
+    <div class="col-md-12" style="padding-top: 22px">
+        <table class="table" style="border: 1px solid black;">
+            <tr>
+                <td>
+                    Customer Id
+                </td>
+                <td>
+                   {{customer?.id}}
+                  </td>
+            </tr>
+            <tr>
+                <td>
+                    Customer Name
+                </td>
+                <td>
+                    {{customer |contcatNames:'firstName':'lastName'}}
+                  </td>
+            </tr>
+            <tr>
+                <td>
+                    Customer Email
+                </td>
+                <td>
+                    {{customer?.email}}
+                  </td>
+            </tr>
+            <tr>
+            <td>
+                Customer Image
+            </td>
+            <td>
+              <img *ngIf="!(customer?.image==null)" src="{{customer?.image}}" style="height: 120px;width: 120px;border: 1px solid black;">
+              <label *ngIf="customer?.image==null">No Image found</label>
+            </td>
+            </tr>
+        </table>
+    </div>
+    </div>
+    
+    

@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand-sm bg-light" *ngIf="currentUser">
+    <ul class="navbar-nav">
+    <li class="nav-item"><a class="nav-link"  routerLink="/customer1" routerLinkActive="active" skipLocationChange>Component1</a></li>
+    <li class="nav-item"><a class="nav-link"  routerLink="/customer2" routerLinkActive="active" skipLocationChange>Component2</a></li>
+    <li class="nav-item"><a class="nav-link"  routerLink="/customer3" routerLinkActive="active" skipLocationChange>Component3</a></li>
+    </ul>
+    <div class="navbar-nav ">
+       <a class="nav-item nav-link logout" (click)="logout()">Logout</a>
+    </div>
+</nav>
+<!-- main app container -->
+<div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <router-outlet></router-outlet>
+            </div>
+        </div>
+    </div>
+</div>

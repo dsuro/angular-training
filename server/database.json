@@ -1,0 +1,103 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "username": "Braden.Kuhic56",
+      "password": "pw0u8eDUoXhfdOs",
+      "firstName": "Mina",
+      "lastName": "Crist",
+      "email": "Helene.Bode98@yahoo.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/svenlen/128.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Rory.Block",
+      "password": "407lM5U6oKo10vs",
+      "firstName": "Cyril",
+      "lastName": "Hickle",
+      "email": "Warren.Morar37@yahoo.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/marcusgorillius/128.jpg"
+    },
+    {
+      "id": 3,
+      "username": "Daphney8",
+      "password": "SzRCwXe1RSXGhe6",
+      "firstName": "Vivian",
+      "lastName": "West",
+      "email": "Savannah.Harris2@yahoo.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/maxlinderman/128.jpg"
+    },
+    {
+      "id": 4,
+      "username": "Camila_Olson",
+      "password": "guU1iNEwUPgWpwo",
+      "firstName": "Pearl",
+      "lastName": "Ortiz",
+      "email": "Thalia.Luettgen97@yahoo.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/chandlervdw/128.jpg"
+    },
+    {
+      "id": 5,
+      "username": "Alice43",
+      "password": "d3WDlwQlUv1iRWY",
+      "firstName": "Creola",
+      "lastName": "O'Hara",
+      "email": "Beryl.Renner69@hotmail.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/buzzusborne/128.jpg"
+    },
+    {
+      "id": 6,
+      "username": "Parker_Wisoky95",
+      "password": "IvSlxDMZ8DVBFHw",
+      "firstName": "Dameon",
+      "lastName": "Ferry",
+      "email": "Dillan.Reinger22@yahoo.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/designervzm/128.jpg"
+    },
+    {
+      "id": 7,
+      "username": "Alek1",
+      "password": "rKrSIOTRF3YAgnF",
+      "firstName": "Marshall",
+      "lastName": "Reichel",
+      "email": "Kaela_Tromp@gmail.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/thaodang17/128.jpg"
+    },
+    {
+      "id": 8,
+      "username": "Luther.Pacocha",
+      "password": "wFL1CEppnPLVdz6",
+      "firstName": "Dewitt",
+      "lastName": "Will",
+      "email": "Vern_Brown@yahoo.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/jarsen/128.jpg"
+    },
+    {
+      "id": 9,
+      "username": "Samantha.Bosco",
+      "password": "GZO_zJy6C9_jcWR",
+      "firstName": "Ashlee",
+      "lastName": "Huels",
+      "email": "Myrna.Homenick@yahoo.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/derekebradley/128.jpg"
+    },
+    {
+      "id": 10,
+      "username": "Major.Wunsch95",
+      "password": "sEDjWIYJZComCMA",
+      "firstName": "Ariel",
+      "lastName": "Nitzsche",
+      "email": "Madelynn.Braun@gmail.com",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/overra/128.jpg"
+    },
+    {
+      "firstName": "Surojit",
+      "lastName": "Das",
+      "username": "suro",
+      "password": "123456",
+      "email": "surojit.das@gmail.com",
+      "image": "C:\\fakepath\\butterfly.jpg",
+      "id": 11
+    }
+  ]
+}
