@@ -19,7 +19,7 @@ import { RowHoverDirective } from './directives/row-hover.directive';
 import { CarColorPipe } from './pipes/car-color.pipe';
 import { TokenInterceptorService } from './services/token-interceptor.service';
 import { CustomerService } from './services/customer.service';
-import { ContcatNamesPipe } from './pipes/contcat-names.pipe';
+import { ConcatNamesPipe } from './pipes/concat-names.pipe';
 
 @NgModule({
   imports: [
@@ -42,12 +42,12 @@ import { ContcatNamesPipe } from './pipes/contcat-names.pipe';
     DropdownModule,
     CarColorPipe,
     RowHoverDirective,
-    ContcatNamesPipe
+    ConcatNamesPipe
   ],
   declarations: [
     CarColorPipe,
     RowHoverDirective,
-    ContcatNamesPipe
+    ConcatNamesPipe
   ]
 })
 export class SharedModule { 

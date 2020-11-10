@@ -36,4 +36,7 @@
                     <button [disabled]="loading" class="btn btn-primary" (click)="onRegistration()">Registration</button>
                 </div>
         </form>-->
+        <div class="col-md-12" *ngIf="submitted && loginFailed">
+           <p style="color:red">*** Invalid username and password</p> 
+        </div>
 </div>
